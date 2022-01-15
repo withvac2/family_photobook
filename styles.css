@@ -1,0 +1,17 @@
+#logo{
+  display: block;
+  margin-top: 80px;
+  margin-bottom: 80px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#menu{
+  text-align: center;
+
+}
+
+#menu a{
+  margin-left: 10px;
+  margin-right: 10px;
+}
